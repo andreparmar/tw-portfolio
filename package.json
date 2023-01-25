@@ -1,0 +1,24 @@
+{
+  "name": "tw-portfolio",
+  "version": "1.0.0",
+  "description": "My ui/ux web portfolio. Built using the @latest version of Tailwind CSS",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx tailwindcss -i ./src/css/input.css -o ./src/css/main.css",
+    "watch": "npx tailwindcss -i ./src/css/input.css -o ./src/css/main.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreparmar/tw-portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andreparmar/tw-portfolio/issues"
+  },
+  "homepage": "https://github.com/andreparmar/tw-portfolio#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.2.4"
+  }
+}

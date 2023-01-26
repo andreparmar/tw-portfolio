@@ -12,6 +12,11 @@ module.exports = {
       body: ["Satoshi", "system-ui", "sans-serif"],
       display: ["Clash Display", "system-ui", "sans-serif"],
     },
+    maxWidth: {
+      quote: "350px",
+      article: "425px",
+      contact: "335px",
+    },
     extend: {
       animation: {
         "spin-slow": "spin 20s linear infinite",

@@ -53,7 +53,7 @@ module.exports = {
       },
       backgroundImage: {
         radial:
-          "radial-gradient(130.6% 130.6% at 50% 50%, rgba(0, 0, 0, 0.6) 0%, rgba(0, 0, 0, 0) 100%)",
+          "radial-gradient(130.6% 130.6% at 50% 50%, rgba(0, 0, 0, 0.6) 0%, rgba(0, 0, 0, 0) 75%)",
       },
     },
   },

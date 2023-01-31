@@ -16,8 +16,12 @@ module.exports = {
       quote: "350px",
       article: "425px",
       contact: "335px",
+      paragraph: "472px",
     },
     extend: {
+      margin: {
+        106: "106px",
+      },
       colors: {
         dribbble: {
           DEFAULT: "#EA4C89",
